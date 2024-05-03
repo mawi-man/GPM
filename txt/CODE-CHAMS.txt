@@ -1,1 +1,1 @@
-key: ASUS
+KEY: GTC
