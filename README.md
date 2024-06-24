@@ -152,9 +152,9 @@ Don't waste any more time, join the **"Mawi GPM"** community now and enjoy an un
 
 ## Emulator Support
 
-- **MSI:** [MSI Emulator](https://gpm.mawiman.site)
-- **Bluestacks:** [Bluestacks Emulator](https://gpm.mawiman.site)
-- **Smart Gaga:** [Smart Gaga Emulator](https://gpm.mawiman.site)
+- **MSI:** [MSI Emulator](https://www.msi.com/Landing/appplayer)
+- **Bluestacks:** [Bluestacks Emulator](https://www.bluestacks.com/download.html)
+- **Smart Gaga:** [Smart Gaga Emulator](https://smartgaga.me)
 
 ## Anti-Hacker Protection
 
