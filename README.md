@@ -2,7 +2,7 @@
 
 - **Wibe:** [MAWI GPM](https://gpm.mawiman.site)
 
-- 
+
 # Free Fire Panel Mawi GPM
 
 ## Enhance Your Free Fire Gaming Experience
