@@ -1,6 +1,6 @@
 ## MAWI GPM
 
-- **WIBE SITE:** [MAWI GPM](https://gpm.mawiman.site)
+- **WIBE SITE:** [MAWI GPM](https://gpm.mawiman.site) *https://gpm.mawiman.site*
 
 
 # Free Fire Panel Mawi GPM
