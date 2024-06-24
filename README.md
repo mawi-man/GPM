@@ -1,6 +1,6 @@
-## Wibe Site Panel MAWI GPM the original
+## MAWI GPM
 
-- **Wibe:** [MAWI GPM](https://gpm.mawiman.site)
+- **WIBE SITE:** [MAWI GPM](https://gpm.mawiman.site)
 
 
 # Free Fire Panel Mawi GPM
